@@ -4,6 +4,7 @@ import com.codingapi.txlcn.tc.config.EnableDistributedTransaction;
 import com.spring4all.swagger.EnableSwagger2Doc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.alibaba.sentinel.annotation.SentinelRestTemplate;
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
@@ -35,6 +36,7 @@ public class SeckillConsumerApplication {
     }
     @Bean
     @LoadBalanced
+    @SentinelRestTemplate
     RestTemplate restTemplate() {
         return new RestTemplate();
     }

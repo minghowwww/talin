@@ -31,9 +31,6 @@ public class TalinServiceExceptionHandler extends BaseExceptionHandler{
     public final static String MESSAGE_HTTPREQUESTMETHODNOTSUPPORTEDEXCEPTION = "exception.httprequestmethodnotsupportedexception";
     public final static String MESSAGE_EXCEPTION = "exception.exception";
 
-    @Autowired
-    private MessageSourceHelper messageSourceHelper;
-
     @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
     @ExceptionHandler(TalinServiceException.class)
     public JSONObject handleSaaSServiceException(TalinServiceException e) {
@@ -84,8 +81,8 @@ public class TalinServiceExceptionHandler extends BaseExceptionHandler{
             response.put(SystemConst.RESPONSE_MSG_KEY, ex.getResponseMessage());
             log.error( "ResponseMessage: " + ex.getResponseMessage());
         } else {
-            response.put(SystemConst.RESPONSE_MSG_KEY, messageSourceHelper.getMessage(MESSAGE_SAASSERVICEEXCEPTION));
-            log.error( "ResponseMessage: " + messageSourceHelper.getMessage(MESSAGE_SAASSERVICEEXCEPTION));
+            response.put(SystemConst.RESPONSE_MSG_KEY, MESSAGE_SAASSERVICEEXCEPTION);
+            log.error( "ResponseMessage: " + MESSAGE_SAASSERVICEEXCEPTION);
         }
         if (ex.getExtMsg() != null && !"".equals(ex.getExtMsg())) {
             response.put(SystemConst.RESPONSE_PARAMS_KEY, ex.getExtMsg());
@@ -107,8 +104,8 @@ public class TalinServiceExceptionHandler extends BaseExceptionHandler{
         JSONObject response = new JSONObject();
         response.put(SystemConst.RESPONSE_CODE_KEY, ResponseCodeEnum.ERROR.getCode());
         log.error( "ResponseCode: " + ResponseCodeEnum.ERROR);
-        response.put(SystemConst.RESPONSE_MSG_KEY, messageSourceHelper.getMessage(messageCode));
-        log.error( "ResponseMessage: " + messageSourceHelper.getMessage(messageCode));
+        response.put(SystemConst.RESPONSE_MSG_KEY, messageCode);
+        log.error( "ResponseMessage: " + messageCode);
 
         String errorTrace = "";
         StackTraceElement[] trace = ex.getStackTrace();
