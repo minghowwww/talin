@@ -13,4 +13,4 @@ feign | 微服务调用
 queryDSL | JPA的复杂关联查询强化 
 elasticsearch | 搜索服务的优化
 
-![avatar](https://github.com/minghowwww/talin/images/money.jpg)
+![avatar](https://github.com/minghowwww/talin/tree/master/images/money.jpg)
