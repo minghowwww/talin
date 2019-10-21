@@ -12,5 +12,6 @@ rabbitmq | 消息队列
 feign | 微服务调用
 queryDSL | JPA的复杂关联查询强化 
 elasticsearch | 搜索服务的优化
+oauth2.0 | 微服务认证解决方案
 
 ![image](https://github.com/minghowwww/talin/blob/master/images/money.jpg)
