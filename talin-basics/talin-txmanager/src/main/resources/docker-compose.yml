@@ -1,0 +1,10 @@
+version: '2'
+services:
+  talin-gateway:
+    image: talin-txmanager
+    container_name: talin-txmanager
+    restart: always
+    ports:
+      - '7970:7970'
+      - '8070:8070'
+      - '8000:8000'

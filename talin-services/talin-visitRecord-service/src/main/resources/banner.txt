@@ -1,0 +1,120 @@
+${AnsiColor.BRIGHT_YELLOW}
+                                                :
+                                               tt                                                   
+                                               i;                                                   
+                                              ;tti                                                  
+                                              jfff                                                  
+                                        ;     t;;i..;tL                                             
+                                        jjjittLjLDGGGLj                                             
+                                        GEDGLfjjjLLDGLG                                             
+                                        GGEDDGLLLtLfjfjL                                            
+                                       LffDDDDDDDDGGGGftL                                           
+                                      iGGGLGGEDDDEDDDfLGt;                                          
+                                      DGfjtttiittffGDDGDGL.                                         
+                                     ;GLLGDDDGGGLjjfffjjDDG                                         
+                                    .DDEGDDEEEDDGfffLjGGjDfGt:                                      
+                                   jGLtEDLGLGDDKEEEEEGLGGiti                                        
+                                     fDDGfGjGDDEKKEEEDffGD,                                         
+                                     ffEEKLLDGGfGDEDEfKEjDG                                         
+                                    iGGGDjGGLLLfjjtti;tGDLLG                                        
+                                    EGfLiiiitfGfGDDDDKLD,DDjLj:                                     
+                                  jffDLDfLLtjtfLDDLGDEDGDtGf:                                       
+                                    LDDfEGDGfLGLLGfLDDGDLLi;                                        
+                                     iDEDDKKDDDDGLjLLfELDDL                                         
+                                    tDELGKEKKEEEDGLLLLEEfDDG                                        
+                                   .DGLEKLEKKKKKEEDGLELDELLEj                                       
+                                  .GLEDGLDjjtttittttttLfLEGLDf                                      
+                                  GLDDDfj;ittjittjtitijtfGELLGj                                     
+                                ,jGDGfGDDDKDDKEEGDGEGffDKiGDL                                       
+                                  jjfDELLjfGGDEEDEKEKEEELE,G                                        
+                                    DDDGLLLGLLGDEKKKKKKEDLEi                                        
+                                    j;KEEDGGfLLLLGGGDDDGEEfD;                                       
+                                   tiDKfLLffjfjjfLGGDDDEtEKLGi                                      
+                                  ;GDjDEGDDGGLGLfjjfffjGGLGELD,                                     
+                                 :DGLEEGfDGGLLfffffLLLjfEDjDEGE,,                                   
+                                tGLGEEfjGEEDDGGLGLLfffGjLDDjGELtf                                   
+                                fLjDDjjDEtjjjttjtttiii;fLDELfD                                      
+                                  GfjDLDi;ititttjtii;;itifLDj                                       
+                                   GGjf;iitjLLDDKEKKKKKKEG;D                                        
+                                    GDDfGLfffLGGDDEKKKEEKKEL                                        
+                                    GEEEEEDDDDDGGGGGGDGDDGDEL.                                      
+                                   fLDjDEEEDDDDDGLGGGGLDLEfKDG,                                     
+                                  tDDLDfDEEEEEEEEDDDDGGGLLEtDGD;                                    
+                                 fGGjDLGDDEEEDDDGGLfLLLLDfGDLEfG;                                   
+                                LDEiEffEfGDDEEEEDDDGLLLGGDfEDLEfG;f,                                
+                              fjLGtDDjLDjtjtjjjjjjjjtjjijEffKLGDf.;                                 
+                              fjDtDGjGDjitttjjjttttttttittDjfELE                                    
+                                ,LDLtGti;;,,,;;;;;;;;;;,;itLjDL,                                    
+                                 .LiLt;;jiiiiitiijjjittttjjjGLL                                     
+                                  jjff;t;jtiijfLfGGGDDEEEELfji                                      
+       .                           tLEEEEEEDDDGGGLGGLDGGLGGEGj                                      
+       :,                         ;DLDEEDEDDDDDGLLLLfLLLLLDEGD;                                     
+      ,t                        .jEfDfEKEEEEEDDDGGGLffffGLEjEGEL:                                   
+    i.t .        :              fGfDfDjLLGDDDEEEDDDDGLLLLDfKfEGEL;                                  
+    ;ff ,      ::             ;DDLDDfDjGGDDEDEEEEEEGGGGGDEfKLELEGDi                                 
+   ..Lftj;;     ,.          ,iGGGGGLEjDjjfffLGDDEEEEEEEEEfDfEfDjEfGjf:                              
+     Lfjij.     j           jLfDjDfDDfDjjjjfffjfjjjjjit;jjDjEfELGDG.t                               
+ .,i;fLLLf,    ,ft:           .jGffDtDttijjttttttjjjj;jjjjjGjDjEjG                                  
+ . :fjLiL  :  ijLff:            EtLLjtiitiiii;ttttiit;iiiitjjEfEG                                   
+ .,;jLLjt.; : .jjjf:            LfDtti;;;;;;;iiiii;ii;;;t;ittjDf                                    
+.  tjGGL,:i jG fGEGi,            Gtitjijttttjtttj;;jtjjtjttjittit;                                  
+:t .jDLLG,ijLfffjjf:f            tiijLjtij;;t;;ii;tiijtjLfjffittji                                  
+:j .ijGj,GL;ffGjtjtj.t           jGEDEKEEKEEEEDDDDEDGGGLLLDGfEfiLjtt              f               ii
+ ,L iLLtj ijj.,fjfjfj.          iDKfEEKKKKKKKEEEKKKKKKEDEEEEEGDDjtL               L      .  :t  :fL 
+t:ijLfit,GGiLLfLLLfLLG;       ,tEGKKLEEKEEKEKKKKKKKKEKEKKEEEGGDjEDj              ff;   , ttt:fttjLi.
+Gj.,jLLfji;iGLGLLjffL.       ;KDGKLEGGDEEEEEEKKKKKEEEDGGGGLDLDLGELEDt            ,jt  ffLGLLjjfiGjGf
+fLffLGGGijtGLjLGDLGDD..,    jELDKGEfKffLLGGGDDEEEKKKKKEEDDDfDGDGfEDGDt           ,Gf ;fLffLjfjiGLDfG
+LLDEGDDLDGDGDGGLfGfEDtii,. EEfKLKDWfKfLGGDDEEKKKKKKKEKEEDGDjDfDGGDLDL       ,    ;Lj GtLLfLGLLDDLLGf
+GDGGGEEEDEDDDLLDDGLjDLLti:::EWDWGKLEfKjfjffffffffffffffffjtLGjEfEfED        tf   iLLfLjDGLGDEEfEfLEG
+DEDDEEKEEEDKLtjfftLLfGftt,ii,:LKLKfKjttjjtittjjjjjjjjfffjjjitjDtDfGif       jftf:LGGLjLDEEEKWEGffGGD
+tiGLEKDEDEGEfjffLjLjfttjttti;ijEfEfttEEEDDGGLLfLffLffLfjjjfDtitfGjLfij   .  fLDLjLGLGtGDKWKLGDDLDfDD
+tjLDDLKGLDDfGGLLGLGGjjfffjttffLDLtiDjtttttjDDDDGGGLLGGfttittjGG;iiffLj   t :LDi;:tfLfGEDEWGKDGEDEfLG
+jttKEKEDEEEDEKKDKKDEKfftLLitfLfGtDGttiitttLLLLLLGGGLGLjtt;iititGf;iLLj   i,LLGDtLLjGDLDEW#GiLEDDjLLD
+tttDDDEKGDKLDGGDEDDDDGjffGtDffiGGjiii;;;;ijffffjjjjjffjitiiiiititjLitjLt,jiLLLGLLDLjLLGLffLLGLGDLGGE
+LLGfEfEDKKKLDEDGGGLKDGjLEtjjffGjtiiii;i;iifffffjfjjjjjfi;iiiiitiit;;tLfjttjjjjLjjjLLGDfGffGGGGfLDDDD
+ftiEDDKKEEKiLjfLLfLtjLfLLjfjjLDii;;,;;ii;iifijtttjftjtii;;;;;i;i;ittjtftjjj;;;LfiLEGEGKLDfELGKGEDKKD
+GfLfDLGGGGjLttjttftGKfLfG,i,jtDii;ii;;,,;;iiGDGLGDGGLtiiiii;;;ii;;jLLDjGLfftttffjLEEELLKGDKKEEEKKKKW
+LjjEEEEKEDDijtjjjfjfftijttjjjtG;;;;;;;tiiiiiftjjttttjiiii;;,;;;;;;ttfGGjti;titffjDEGEDDDEKKKEEEKWWWK
+fLjjDEEKEDjttLjjjtjjtLtjjjfjjfj;;,;;;;,iiti;jfjjjjjftiti;;i;;;iii;tjiLftftitit;LDEGEDDGDGEKKKKWWWWED
+ttifGKDKEftjjffjjjfffffjGDj;,iGi;;;i;,i;;ii;tjtttitttiii;;;;;t;;i;ii;ijfj,;;ii;ii,;jjEEKEED#WWWWWWKE
+ff;EEEKEGEKEEEKEKEEEKLLjGLfjjjL,;i;;,;;;iii;tttttttttii;;,;;;;,;i;tt,;;;;i;,,,,,;iiiiitKWKKW#WWW#KKK
+jGGLEEKDDDEGGLGjGDEDDfEfittjffG;i;,;;;;;;iiitittiiiiti;ii;;;;;;;;;jfjifi;;;,,,;,,,,,;ijKKKEWWKGKKKEK
+itjKKEEKKDGEEDGDEGEEjDjiti;,,iE;;,;;,,;;;;;ittttitttt;;i,;,;i;i;;;jGDiit;;,;ti,tt,iijjtKKKWWEDED#WEK
+Gf;WKEKEKEfttGfLLLLjGfjj;ttjiiD;i;,;;;i;i;;itttiitttti;;;i;;;ii;;;;;ijijjtitjttttjttjjLKLEDD#WKGLGEG
+ffjGWKKKKKiLLGLGGGGGtifjfjjjjjL;,;;;,;;;;;;;tiitttitt;ii;;;;iii;i;tiiLjttjtttttttjttjDKDDDDEfGDEKEEK
+fjfjWEEKKj;jtititttttLGGLfj;jtL;;,;,,;,,,,;;tiiiiiitti;iiiii;;;;;;ittEDEDDEKKEWEKKEKKEEWDGKGEEWKKEEK
+ftLLDEEKDLfttiiitittijLLGj,;;;E;;i;;;;iiii;itttititttii;,;;;i;ii;;itEKKKGLGDKDLLLffDKKKWGEDDEEKKWWWW
+it;tEEEELLjtijffLjjttjjffjjtffj;;;i,;;,,;;;;tiiiiittti;;i;;;;;;;,,;KKKWWjjLLGfjjtfLGEKW#EEKKKWKKWKKW
+jfjjtKEjLitjjGGGftttttiijjjjjjt,;;,;;;;;;ii;titiitttti;;;i;;iiiii;;;GW###DGDDtjtLLDWW#WWWEWWWWKWWWW#
+;;itDWGjK;tttLLLftttttttjii;iiD;;i;;;iii;;i;tiiiittiii;iijj;iii;;;iitEW##KGEDttiGGEKWWKWWWWW#WWWWWKD
+ttjtLGLGG;tttLLLjjjttiiiif,,,,Ei;,;,::,,:,,;,,,,;;;iiiiiiii;,,:,iit;jLEK#EfGfttGGLLKEEKWKGDfWWWWWWWK
+LLLLGLELD;tttffftjtttjiiiLf,,,f:,,;itjj;t;iiijtii;jtii;;t;ii;;;i;;;;ffGEWDjLtttGfftWWKKKKfjtEWWWDKEK
+tjttLEEKLtittttiitititii;fi,,i;;;iifLfLLLGGGLGGDGDDDDEGLLDDDGDLfjjtitDGEKGjLtttLjttKWEWWGttit#WfttiG
+tLitGGDDLLjttiiiitttttti;jt;tjfGDDLtiffffLLGLLGGGLffffjtjfLjtitffffDEGGDEGjttttfjttWEDDLLiiitWKftt;D
+tttiGLGGDGLLGDDGGLGGfttiititjftjDEGfjffffDEDEEDEEEKEEEEDfjjjjjDGLLDEWEGEEGjttttjtttKKEEDWjiiiKKitjGG
+i;iiLGGGftitiitttttttttitfff:jEEGftttjjjjfLffjffjLjtjjfjjtjtjiLfGfjLtKDDDGjttjttttt##EWGKKjjfLWLLjti
+ii;iLGLGfffftttjjtittjfjL,;iWtjtLjfiiiiijfjfLitffLjLfLjtjtttttjjLtifjDEGDGjtttttttj###LG##DLEDWDKE;i
+ffjfjGGGGjEDDDGGGDGGGfLjitLjWijtLLjititjtLDGjffjtfjjDGfjitiitiffiLfjtGKDGGjtjttjttt###KG##ftffWEGGLL
+fjLLGDLLLLGGGGLLGDDLDDGGffLfKittfjtiiiittfGLjffLfjjjLjffitititjfjLfLifDDLGttjtttttt####GWKDjffWEjfGG
+
+${AnsiColor.BRIGHT_BLUE}
+                               ██████████            ██ ██
+                              ░░░░░██░░░            ░██░░
+                                  ░██      ██████   ░██ ██ ███████
+                                  ░██     ░░░░░░██  ░██░██░░██░░░██
+                                  ░██      ███████  ░██░██ ░██  ░██
+                                  ░██     ██░░░░██  ░██░██ ░██  ░██
+                                  ░██    ░░████████ ███░██ ███  ░██
+                                  ░░      ░░░░░░░░ ░░░ ░░ ░░░   ░░
+
+ ██      ██ ██         ██   ██   ███████                                        ██    ████████                         ██
+░██     ░██░░         ░░   ░██  ░██░░░░██                                      ░██   ██░░░░░░                         ░░
+░██     ░██ ██  ██████ ██ ██████░██   ░██   █████   █████   ██████  ██████     ░██  ░██         █████  ██████ ██    ██ ██  █████   █████
+░░██    ██ ░██ ██░░░░ ░██░░░██░ ░███████   ██░░░██ ██░░░██ ██░░░░██░░██░░█  ██████  ░█████████ ██░░░██░░██░░█░██   ░██░██ ██░░░██ ██░░░██
+ ░░██  ██  ░██░░█████ ░██  ░██  ░██░░░██  ░███████░██  ░░ ░██   ░██ ░██ ░  ██░░░██  ░░░░░░░░██░███████ ░██ ░ ░░██ ░██ ░██░██  ░░ ░███████
+  ░░████   ░██ ░░░░░██░██  ░██  ░██  ░░██ ░██░░░░ ░██   ██░██   ░██ ░██   ░██  ░██         ░██░██░░░░  ░██    ░░████  ░██░██   ██░██░░░░
+   ░░██    ░██ ██████ ░██  ░░██ ░██   ░░██░░██████░░█████ ░░██████ ░███   ░░██████   ████████ ░░██████░███     ░░██   ░██░░█████ ░░██████
+    ░░     ░░ ░░░░░░  ░░    ░░  ░░     ░░  ░░░░░░  ░░░░░   ░░░░░░  ░░░     ░░░░░░   ░░░░░░░░   ░░░░░░ ░░░       ░░    ░░  ░░░░░   ░░░░░░
+
+${AnsiColor.YELLOW}
+::: VisitRecordService (version:${application.version}) :::  ＼(^O^)／  ::: Spring-Boot (version:${spring-boot.version})

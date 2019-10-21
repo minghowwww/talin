@@ -1,0 +1,9 @@
+version: '2'
+services:
+  talin-gateway:
+    image: talin-zuul
+    container_name: talin-gateway
+    restart: always
+    ports:
+      - '66:80'
+
